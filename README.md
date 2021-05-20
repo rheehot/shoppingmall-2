@@ -35,6 +35,12 @@
 
 
 
+- 문제정리
+-- npm audit fix 이게 왜 필요하지??
+
+![image](https://user-images.githubusercontent.com/41716029/119019159-dbb34c00-b9d7-11eb-9c5e-7973ca5f27b2.png)
+
+
 
 참고사이트
 
